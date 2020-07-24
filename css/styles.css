@@ -1,0 +1,169 @@
+body {
+    margin: 0 0 0 0;
+    padding-bottom: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+.web-span {
+    text-decoration: underline;
+}
+
+.subtitle {
+    font-weight: normal;
+}
+
+.mountain {
+    position: relative;
+    top: 2px;
+}
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+
+.profile-picture{
+
+border-radius: 50%;
+max-width: 10%;
+padding-top: 50px;
+
+}
+.teaching-picture{
+
+width: 20%;
+float: left;
+margin-right: 30px;
+
+}
+
+.competing-picture {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 40%;
+    padding-bottom: 10px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 2.5%;
+  }
+
+  .bottom-hr {
+      clear: both;
+      margin: 100px auto 100px auto;
+  }
+
+  .top-hr {
+      margin: 100px auto 100px auto;
+  }
+
+  .competing-heading {
+      clear: left;
+  }
+
+  .bottom-container {
+      margin: 0;
+      padding-top: 50px;
+    
+  }
+
+  footer {
+      background-color: #66bfbf;
+      height: 150px;
+      margin-top: 200px;
+      padding-bottom: 0em;
+  }
+
+  .copyright {
+      color: white;
+      font-size: 0.75rem;
+      padding: 20px 0;
+  }
+
+  .contact-button {
+      margin-top: 75px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #66bfbf 5%, #408c99 100%);
+	background-color:#66bfbf;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.contact-button:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #66bfbf 100%);
+	background-color:#408c99;
+}
+.contact-button:active {
+	position:relative;
+	top:1px;
+}
+
+
